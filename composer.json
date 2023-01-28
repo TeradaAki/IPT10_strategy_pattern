@@ -1,0 +1,15 @@
+{
+    "name": "terada/ipt",
+    "autoload": {
+        "psr-4": {
+            "Terada\\Ipt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TeradaAki",
+            "email": "terada.aki@yahoo.com"
+        }
+    ],
+    "require": {}
+}
